@@ -1,0 +1,29 @@
+body {
+  background-image: url(./Math\ Background\ 4.jpg);
+  background-size: cover;
+}
+
+.container {
+  margin-top: 200px;
+}
+
+.row {
+  height: 400px;
+}
+
+h1,
+.rulesHeader,
+.timeRemaining,
+.currentScore,
+.highScore {
+  font-family: 'Frijole', cursive;
+}
+
+h1 {
+  background-color: black;
+}
+
+.highScore {
+  color: green;
+}
+
